@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "s-w-kuechler",
-    "currentPage": "s-w-kuechler.github.io.html",
+    "currentPage": "Home.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1897,7 +1897,7 @@
         }
       ]
     },
-    "s-w-kuechler.github.io.html": {
+    "Home.html": {
       "settings": {
         "main": true,
         "title": "Home",

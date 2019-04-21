@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "s-w-kuechler",
-    "currentPage": "Home.html",
+    "currentPage": "Hobby.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1438,7 +1438,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Silvia, Wiland, Küchler, Dohma",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1895,7 +1895,7 @@
     },
     "Hobby.html": {
       "settings": {
-        "meta_descr": "Web Page Generator Description",
+        "meta_descr": "Technischen Instandsetzung von Feldbahn.- schienen, -weichen sowie Winden, Loren, Lok und anderes Material,  Vervollständigung der Anlage um den 5er Ofen . Kalkofen, Kalkstein, Steinbruch, ",
         "title": "Hobby",
         "order": 1
       },
